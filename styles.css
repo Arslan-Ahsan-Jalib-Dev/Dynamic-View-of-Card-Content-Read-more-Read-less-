@@ -1,0 +1,28 @@
+.features-items-wrapper {
+  background-color: #fff;
+  box-shadow: 1px 1px 17px #ccc;
+  border-radius: 15px;
+  padding: 25px;
+}
+.features-items-wrapper .fa{
+    font-size: 48px;
+}
+.special-text h3 {
+  padding: 15px 0 10px;
+}
+p{
+    height: 50px;
+    margin-bottom: 0;
+    overflow: hidden;
+    transition: all 1s ease;
+}
+.update-my-height{
+    height: 365px;
+    transition: all 1s linear;
+}
+.btn-link {
+  text-decoration: none;
+  background-color: #ccc;
+  border-radius: 100%;
+  margin-top: 15px;
+}
